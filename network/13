@@ -1,0 +1,5 @@
+nslookup 192.168.31.93 192.168.50.2
+Server:		192.168.50.2
+Address:	192.168.50.2#53
+
+93.31.168.192.in-addr.arpa	name = ga-o3.21-school.ru.
